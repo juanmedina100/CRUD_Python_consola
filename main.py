@@ -114,5 +114,5 @@ while(True):
         case 4:
             eliminarPersona()
         case 0:
-            print("Hasta la vista Baby")
+            print("El programa ha finalizado")
             break
