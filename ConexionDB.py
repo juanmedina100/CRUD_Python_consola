@@ -11,5 +11,4 @@ def conectarAcces():
     )
 
     # Crear un cursor para ejecutar consultas
-    # cursor = conn.cursor()
     return conn
