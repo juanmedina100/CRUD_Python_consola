@@ -31,7 +31,7 @@ def ingresarNuevaPersona():
         conn.close()
     except:
         conn.close()
-        print("No es posible guarfar la información")
+        print("No es posible guardar la información")
 
 def actualizarPersona():
     try:
